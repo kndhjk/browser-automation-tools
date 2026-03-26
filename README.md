@@ -1,3 +1,10 @@
 # browser-automation-tools
 
-Split from filtered workspace export.
+Small browser automation helper tooling extracted from a larger local workspace.
+
+## Contents
+- browser automation helper scripts
+- package metadata
+
+## Notes
+Published as a cleaned standalone split from a larger workspace export.
